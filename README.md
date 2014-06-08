@@ -1,3 +1,3 @@
 javescrept
 ==========
-    <onr> it's 100% JAVESCREPT
+> \<onr\> it's 100% JAVESCREPT
